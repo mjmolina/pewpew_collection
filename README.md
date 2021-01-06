@@ -8,7 +8,7 @@
 ## Tie fighter
  * Check the [code/](code/)
  
-<img align="right" width="450" height="350" src="src/hearth.png"/>
+<img align="right" width="450" height="350" src="src/tie_fighter_img.png"/>
 
 ## Hearth
  
