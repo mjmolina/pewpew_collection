@@ -7,9 +7,6 @@
 
 ## Tie fighter
 
-<img align="left" width="450" height="350" src="src/tie_fighter_img.jpg"/>
-
-
 
 ## Hearth
  
