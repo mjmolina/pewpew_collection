@@ -6,7 +6,9 @@
   components, configuration, photos, and more!
 
 ## Tie fighter
-
+ * Check the [code/](code/)
+ 
+<img align="right" width="450" height="350" src="src/hearth.png"/>
 
 ## Hearth
  
