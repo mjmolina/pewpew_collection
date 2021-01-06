@@ -6,7 +6,7 @@
   components, configuration, photos, and more!
 
 ## Tie fighter
-[code/](code/tie.py)
+* [code/](code/tie.py)
 
 
 
