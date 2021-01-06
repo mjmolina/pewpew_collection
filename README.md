@@ -6,7 +6,6 @@
   components, configuration, photos, and more!
 
 ## Tie fighter
-* [code/](code/tie.py)
 
 <img align="left" width="450" height="350" src="src/tie_fighter_img.jpg"/>
 
