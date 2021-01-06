@@ -14,6 +14,6 @@
 
 ## Hearth
  
-<img align="left" width="450" height="350" src="src/hearth.jpg"/>
+<img align="right" width="450" height="350" src="src/hearth.jpg"/>
 
 
