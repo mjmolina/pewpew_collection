@@ -8,10 +8,10 @@
 ## Tie fighter
  * Check the [code/](code/)
  
-<img align="right" width="350" height="250" src="src/tie_fighter_img.png"/>
+<img align="left" width="350" height="250" src="src/tie_fighter_img.png"/>
 
 ## Hearth
  
-<img align="right" width="350" height="250" src="src/hearth.jpg"/>
+<img align="left" width="350" height="250" src="src/hearth.jpg"/>
 
 
